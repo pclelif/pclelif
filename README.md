@@ -1,10 +1,6 @@
-<h1 align="center">Hi, I’m Elif :).</h1>
+# Hi, I’m Elif :).
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pclelif"><b>LinkedIn</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/pclelif?tab=repositories"><b>GitHub Repositories</b></a>
-</p>
+[**LinkedIn**](https://www.linkedin.com/in/pclelif) &nbsp;·&nbsp; [**GitHub Repositories**](https://github.com/pclelif?tab=repositories)
 
 ---
 
