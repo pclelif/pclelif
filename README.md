@@ -9,7 +9,8 @@ I’m a Software Engineering student at Ankara Science University, also pursuing
 I’m interested in building software across different areas, from interactive 3D games to full-stack web applications. I enjoy turning ideas into working products, exploring new technologies, and improving my projects through hands-on development.
 
 
-https://github.com/user-attachments/assets/811c5f82-d3af-491a-b42b-e5da6377051c
+<img width="400" alt="RoboSeek" src="https://github.com/user-attachments/assets/ab892375-dc72-4866-83ff-27b7f1129c50" />
+
 
 
 I completed a 30-working-day internship at **DSS Bioenformatik Robotik Yazılım Elektronik ve Mekanik A.Ş.** at Ankara University Teknokent, where I developed a website and admin panel for a real organization.
@@ -99,7 +100,7 @@ A 2D game featuring character movement, attacks, abilities, and environmental in
 | Version Control: Git and GitHub | BTK Akademi | August 2026 |
 | Python for AI | Türkiye Yapay Zekâ Akademisi | July 2026 |
 | Vodafone Summer Campus | Vodafone | June 2026 |
-| Data Analysis School: AI and Machine Learning Module | Council of Higher Education (YÖK) | June 2026 |
+| Data Analysis School: AI and Machine Learning Module | Council of Higher Education | June 2026 |
 | Introduction to Prompt Engineering | Kodluyoruz | April 2026 |
 | Game Development with Unreal Engine | Ankara Science University | January 2026 |
 | C# Programming | BTK Akademi | January 2026 |
