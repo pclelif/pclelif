@@ -58,7 +58,7 @@ A full-stack web application built for a real alumni association. Includes authe
 
 ### 2. RoboSeek — 3D Action-Adventure Game
 
-`Unity 6` · `C#` · `NavMesh` · `Netcode for GameObjects` · `Unity Relay`
+`Unity` · `C#` · `NavMesh` · `Netcode for GameObjects` · `Unity Relay`
 
 A 3D action-adventure game featuring four maps, item collection, and combat. Implements state-machine-driven enemy AI, NavMesh navigation, jetpack movement, double jump, and dash mechanics. Also includes multiplayer functionality using Netcode for GameObjects and Unity Relay.
 
