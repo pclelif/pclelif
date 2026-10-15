@@ -82,7 +82,7 @@ A movie and TV discovery platform integrating TMDB and OMDb data. Features user 
 
 A 2D game featuring character movement, attacks, abilities, and environmental interactions. Uses Animator state synchronization to connect gameplay logic with character animations. Showcased at my university’s spring festival.
 
-**[Source Code](#)** · **[Demo Video](https://youtu.be/1ieNiAcEpsE?si=WCTpR5qZMFGBCxiS)**
+**[Source Code](#)** · **[Gameplay Video](https://youtu.be/1ieNiAcEpsE?si=WCTpR5qZMFGBCxiS)**
 
 ---
 
