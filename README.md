@@ -43,7 +43,7 @@ I’m interested in building software across different areas, from interactive 3
 
 ## Featured Projects
 
-### 1. Mezunder — Alumni Association Website & Admin Panel
+### 1. MezunDer — Alumni Association Website & Admin Panel
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PostgreSQL`
 
@@ -65,7 +65,7 @@ A 3D action-adventure game featuring four maps, item collection, and combat. Imp
 
 <br>
 
-### 3. Seyir Atlası — Movie & TV Discovery Platform
+### 3. SeyirAtlası — Movie & TV Discovery Platform
 
 `HTML` · `CSS` · `JavaScript` · `Node.js` · `PostgreSQL` · `Gemini API`
 
