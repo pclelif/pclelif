@@ -8,6 +8,10 @@ I’m a Software Engineering student at Ankara Science University, also pursuing
 
 I’m interested in building software across different areas, from interactive 3D games to full-stack web applications. I enjoy turning ideas into working products, exploring new technologies, and improving my projects through hands-on development.
 
+
+https://github.com/user-attachments/assets/811c5f82-d3af-491a-b42b-e5da6377051c
+
+
 I completed a 30-working-day internship at **DSS Bioenformatik Robotik Yazılım Elektronik ve Mekanik A.Ş.** at Ankara University Teknokent, where I developed a website and admin panel for a real organization.
 
 ---
