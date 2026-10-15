@@ -96,6 +96,6 @@ A 2D game featuring character movement, attacks, abilities, and environmental in
 | Vodafone Summer Campus | Vodafone | June 2026 |
 | Data Analysis School: AI and Machine Learning Module | Council of Higher Education | June 2026 |
 | Introduction to Prompt Engineering | Kodluyoruz | April 2026 |
-| Game Development with Unreal Engine | Ankara Science University | January 2026 |
+| Game Development with Unreal Engine | Ankara Bilim University | January 2026 |
 | C# Programming | BTK Akademi | January 2026 |
 | English B2 Proficiency (European Language Portfolio) | American Culture Language Schools | September 2025 |
