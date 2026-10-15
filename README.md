@@ -16,34 +16,26 @@ I completed a 30-working-day internship at **DSS Bioenformatik Robotik Yazılım
 
 <table>
   <tr>
-    <td width="25%" valign="top">
-      <b>Game Development</b>
-      <ul>
-        <li>Unity, Unreal Engine</li>
-        <li>C#, C++</li>
-      </ul>
+    <td width="25%" valign="top" align="left">
+      <b>Game Development</b><br>
+      • Unity, Unreal Engine<br>
+      • C#, C++
     </td>
-    <td width="25%" valign="top">
-      <b>Web Development</b>
-      <ul>
-        <li>Next.js, React, TypeScript</li>
-        <li>Tailwind CSS, Node.js</li>
-        <li>PostgreSQL, Supabase</li>
-      </ul>
+    <td width="25%" valign="top" align="left">
+      <b>Web Development</b><br>
+      • Next.js, React, TypeScript<br>
+      • Tailwind CSS, Node.js<br>
+      • PostgreSQL, Supabase
     </td>
-    <td width="25%" valign="top">
-      <b>Data &amp; AI</b>
-      <ul>
-        <li>Python</li>
-        <li>AI APIs and data analysis</li>
-      </ul>
+    <td width="25%" valign="top" align="left">
+      <b>Data &amp; AI</b><br>
+      • Python<br>
+      • AI APIs and data analysis
     </td>
-    <td width="25%" valign="top">
-      <b>Programming &amp; Tools</b>
-      <ul>
-        <li>Java</li>
-        <li>Git, GitHub</li>
-      </ul>
+    <td width="25%" valign="top" align="left">
+      <b>Programming &amp; Tools</b><br>
+      • Java<br>
+      • Git, GitHub
     </td>
   </tr>
 </table>
