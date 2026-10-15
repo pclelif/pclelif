@@ -43,7 +43,7 @@ I’m interested in building software across different areas, from interactive 3
 
 ## Featured Projects
 
-### 1. MezunDer — Alumni Association Website & Admin Panel
+### 1. Mezunder — Alumni Association Website & Admin Panel
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PostgreSQL`
 
