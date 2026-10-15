@@ -9,6 +9,7 @@ I’m a Software Engineering student at Ankara Science University, also pursuing
 I’m interested in building software across different areas, from interactive 3D games to full-stack web applications, and enjoy turning ideas into working products through hands-on development.
 
 <img width="500" alt="RoboSeek" src="https://github.com/user-attachments/assets/ab892375-dc72-4866-83ff-27b7f1129c50" />
+
 ---
 
 ## Tech Stack
