@@ -4,7 +4,7 @@
 
 ---
 
-I’m a Software Engineering student at Ankara Science University, also pursuing an associate degree in AI-Assisted Coding at Anadolu University. I also completed a 30-working-day internship at **DSS Bioenformatik Robotik Yazılım Elektronik ve Mekanik A.Ş. at Ankara University Teknokent**, where I developed a website and admin panel for a real organization.
+I’m a Software Engineering student at Ankara Bilim University, also pursuing an associate degree in AI-Assisted Coding at Anadolu University. I also completed a 30-working-day internship at **DSS Bioenformatik Robotik Yazılım Elektronik ve Mekanik A.Ş. at Ankara University Teknokent**, where I developed a website and admin panel for a real organization.
 
 I’m interested in building software across different areas, from interactive 3D games to full-stack web applications, and enjoy turning ideas into working products through hands-on development.
 
