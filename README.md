@@ -1,17 +1,14 @@
 # Hi, I’m Elif :).
-<img width="500" alt="RoboSeek" src="https://github.com/user-attachments/assets/ab892375-dc72-4866-83ff-27b7f1129c50" />
 
 [**LinkedIn**](https://www.linkedin.com/in/pclelif) &nbsp;·&nbsp; [**GitHub Repositories**](https://github.com/pclelif?tab=repositories)
 
 ---
 
-I’m a Software Engineering student at Ankara Science University, also pursuing an associate degree in AI-Assisted Coding at Anadolu University.
+I’m a Software Engineering student at Ankara Science University, also pursuing an associate degree in AI-Assisted Coding at Anadolu University. I also completed a 30-working-day internship at **DSS Bioenformatik Robotik Yazılım Elektronik ve Mekanik A.Ş. at Ankara University Teknokent**, where I developed a website and admin panel for a real organization.
 
-I’m interested in building software across different areas, from interactive 3D games to full-stack web applications. I enjoy turning ideas into working products, exploring new technologies, and improving my projects through hands-on development.
+I’m interested in building software across different areas, from interactive 3D games to full-stack web applications, and enjoy turning ideas into working products through hands-on development.
 
-
-I completed a 30-working-day internship at **DSS Bioenformatik Robotik Yazılım Elektronik ve Mekanik A.Ş.** at Ankara University Teknokent, where I developed a website and admin panel for a real organization.
-
+<img width="500" alt="RoboSeek" src="https://github.com/user-attachments/assets/ab892375-dc72-4866-83ff-27b7f1129c50" />
 ---
 
 ## Tech Stack
