@@ -51,7 +51,7 @@ I’m interested in building software across different areas, from interactive 3
 
 A full-stack web application built for a real alumni association. Includes authentication, database integration, and CRUD-based content management for announcements, events, gallery items, and FAQs. Deployed on Vercel.
 
-**[Source Code](#)** · **[Live Website](https://www.kaaflmezunder.org.tr/)** · **[Demo Video](https://youtu.be/oCGiVz1zFeE?si=1xENp7gg6OMEAgyj)**
+**[Source Code](https://github.com/pclelif/mezunder)** · **[Live Website](https://www.kaaflmezunder.org.tr/)** · **[Demo Video](https://youtu.be/oCGiVz1zFeE?si=1xENp7gg6OMEAgyj)**
 
 <br>
 
@@ -61,7 +61,7 @@ A full-stack web application built for a real alumni association. Includes authe
 
 A 3D action-adventure game featuring four maps, item collection, and combat. Implements state-machine-driven enemy AI, NavMesh navigation, jetpack movement, double jump, and dash mechanics. Also includes multiplayer functionality using Netcode for GameObjects and Unity Relay.
 
-**[Source Code](#)** · **[Gameplay Video](https://youtu.be/r8eVF52w0Yo?si=GiMDNkO8dkEbLY0z)**
+**[Source Code](https://github.com/pclelif/roboseek)** · **[Gameplay Video](https://youtu.be/r8eVF52w0Yo?si=GiMDNkO8dkEbLY0z)**
 
 <br>
 
@@ -71,7 +71,7 @@ A 3D action-adventure game featuring four maps, item collection, and combat. Imp
 
 A movie and TV discovery platform integrating TMDB and OMDb data. Features user accounts, personal lists, and a Turkish-language recommendation system powered by the Gemini API. Deployed on Render.
 
-**[Source Code](#)** · **[Live Website](https://seyiratlasi.me/)**
+**[Source Code](https://github.com/pclelif/seyir-atlasi)** · **[Live Website](https://seyiratlasi.me/)**
 
 <br>
 
@@ -81,7 +81,7 @@ A movie and TV discovery platform integrating TMDB and OMDb data. Features user 
 
 A 2D game featuring character movement, attacks, abilities, and environmental interactions. Uses Animator state synchronization to connect gameplay logic with character animations. Showcased at my university’s spring festival.
 
-**[Source Code](#)** · **[Gameplay Video](https://youtu.be/1ieNiAcEpsE?si=WCTpR5qZMFGBCxiS)**
+**[Source Code](https://github.com/pclelif/snowenture-demo)** · **[Gameplay Video](https://youtu.be/1ieNiAcEpsE?si=WCTpR5qZMFGBCxiS)**
 
 ---
 
