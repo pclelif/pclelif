@@ -30,7 +30,6 @@ I’m interested in building software across different areas, from interactive 3
     <td width="25%" valign="top" align="left">
       <b>Data &amp; AI</b><br>
       • Python<br>
-      • AI APIs and data analysis
     </td>
     <td width="25%" valign="top" align="left">
       <b>Programming &amp; Tools</b><br>
