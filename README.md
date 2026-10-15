@@ -1,71 +1,84 @@
-# Hi, I'm Elif
+Hi, I’m Elif :)!
 
-I'm studying **Software Engineering** at Ankara Science University, and I'm also pursuing an associate degree in **AI-Assisted Coding** at Anadolu University. I move between game development and web development, and in both I enjoy taking something from idea to a fully working product.
+I’m a Software Engineering student at Ankara Science University, also pursuing an associate degree in AI-Assisted Coding at Anadolu University.
 
-**I completed a 30-working-day internship at DSS Bioenformatik Robotik Yazılım Elektronik ve Mekanik A.Ş. at Ankara University Teknokent**, where I built Mezunder, a website and admin panel for a real organization.
+I’m interested in building software across different areas, from interactive 3D games to full-stack web applications. I enjoy turning ideas into working products, exploring new technologies, and improving my projects through hands-on development.
 
-[LinkedIn](https://www.linkedin.com/in/pclelif)
+I completed a 30-working-day internship at DSS Bioenformatik Robotik Yazılım Elektronik ve Mekanik A.Ş. at Ankara University Teknokent, where I developed a website and admin panel for a real organization.
 
----
+LinkedIn · GitHub Repositories
 
-## Projects
 
-### Mezunder: Alumni Association Website & Admin Panel
-**Next.js · React · TypeScript · Tailwind CSS · Supabase**
+Tech Stack
 
-> **Internship project:** Built during a 30-working-day internship at DSS Bioenformatik Robotik Yazılım Elektronik ve Mekanik A.Ş., Ankara University Teknokent.
+Game Development
 
-<img src="assets/mezunder.png" alt="Mezunder alumni association website" width="600">
+* Unity, Unreal Engine
+* C#, C++
 
-PostgreSQL and Authentication integration through Supabase, with CRUD-based content management for announcements, events, gallery, and FAQ. Live on Vercel.
+Web Development
 
-[GitHub](https://github.com/pclelif/mezunder) · [Live site](https://kaaflmezunder.org.tr) · [Demo video](https://youtu.be/1ieNiAcEpsE)
+* Next.js, React, TypeScript
+* Tailwind CSS, Node.js
+* PostgreSQL, Supabase
 
-### RoboSeek
-**Unity 6 · C# · 3D**
+Data & AI
 
-VIDEO_LINKI_BURAYA
+* Python
+* AI APIs and data analysis
 
-An action-adventure game with four maps, built around item collection and combat. Features enemy robots driven by state machines on a NavMesh, jetpack, double jump, and dash mechanics, and a multiplayer mode using Netcode for GameObjects and Unity Relay.
+Programming & Tools
 
-[GitHub](https://github.com/pclelif/roboseek) · [Gameplay video](https://youtu.be/oCGiVz1zFeE)
+* Java
+* Git, GitHub
 
-### Seyir Atlası
-**HTML · CSS · JavaScript · Node.js · PostgreSQL**
 
-<img src="assets/seyir-atlasi.png" alt="Seyir Atlası home page" width="600">
+Featured Projects
 
-A movie and TV discovery platform powered by TMDB and OMDb data. Includes user accounts, personal lists, and a Turkish-language recommendation system built on the Gemini API. Live on Render.
+1. Mezunder — Alumni Association Website & Admin Panel
 
-[GitHub](https://github.com/pclelif/seyir-atlasi) · [Live site](https://seyiratlasi.me)
+Next.js · React · TypeScript · Tailwind CSS · Supabase · PostgreSQL
 
-### Snowenture
-**Unity · C# · 2D**
+Internship project developed at DSS Bioenformatik Robotik Yazılım Elektronik ve Mekanik A.Ş., Ankara University Teknokent.
 
-Character control, attack, ability, and environment interaction mechanics, with state-to-animation synchronization through Animator. Showcased at the university's spring festival.
+A full-stack web application built for a real alumni association. Includes authentication, database integration, and CRUD-based content management for announcements, events, gallery items, and FAQs. Deployed on Vercel.
 
-[GitHub](https://github.com/pclelif/snowenture-demo) · [Demo video](https://youtu.be/r8eVF52w0Yo)
+Source Code · Live Website · Demo Video
 
----
+2. RoboSeek — 3D Action-Adventure Game
 
-## Technologies
+Unity 6 · C# · NavMesh · Netcode for GameObjects · Unity Relay
 
-**Game:** Unity, Unreal Engine, C#, C++  
-**Web:** Next.js, React, TypeScript, Tailwind CSS, Node.js  
-**Data & AI:** Python, PostgreSQL, Supabase  
-**Other:** Java, Git, GitHub
+A 3D action-adventure game featuring four maps, item collection, and combat. Implements state-machine-driven enemy AI, NavMesh navigation, jetpack movement, double jump, and dash mechanics. Also includes multiplayer functionality using Netcode for GameObjects and Unity Relay.
 
----
+Source Code · Gameplay Video
 
-## Certifications
+3. Seyir Atlası — Movie & TV Discovery Platform
 
-- **Google AI Professional Certificate**, Google · *August 2026*
-- **Google Data Analytics Professional Certificate**, Google · *August 2026*
-- **Version Control: Git and GitHub**, BTK Akademi · *August 2026*
-- **Python for AI**, Türkiye Yapay Zekâ Akademisi · *July 2026*
-- **Vodafone Summer Campus**, Vodafone · *June 2026*
-- **Data Analysis School: AI and Machine Learning Module**, Council of Higher Education (YÖK) · *June 2026*
-- **Introduction to Prompt Engineering**, Kodluyoruz · *April 2026*
-- **Game Development with Unreal Engine**, Ankara Science University · *January 2026*
-- **C# Programming**, BTK Akademi · *January 2026*
-- **English B2 Proficiency (European Language Portfolio)**, American Culture Language Schools · *September 2025*
+HTML · CSS · JavaScript · Node.js · PostgreSQL · Gemini API
+
+A movie and TV discovery platform integrating TMDB and OMDb data. Features user accounts, personal lists, and a Turkish-language recommendation system powered by the Gemini API. Deployed on Render.
+
+Source Code · Live Website
+
+4. Snowenture — 2D Platformer Game
+
+Unity · C# · Animator
+
+A 2D game featuring character movement, attacks, abilities, and environmental interactions. Uses Animator state synchronization to connect gameplay logic with character animations. Showcased at my university’s spring festival.
+
+Source Code · Demo Video
+
+
+Certifications & Learning
+
+* Google AI Professional Certificate — Google · August 2026
+* Google Data Analytics Professional Certificate — Google · August 2026
+* Version Control: Git and GitHub — BTK Akademi · August 2026
+* Python for AI — Türkiye Yapay Zekâ Akademisi · July 2026
+* Vodafone Summer Campus — Vodafone · June 2026
+* Data Analysis School: AI and Machine Learning Module — Council of Higher Education (YÖK) · June 2026
+* Introduction to Prompt Engineering — Kodluyoruz · April 2026
+* Game Development with Unreal Engine — Ankara Science University · January 2026
+* C# Programming — BTK Akademi · January 2026
+* English B2 Proficiency (European Language Portfolio) — American Culture Language Schools · September 2025
